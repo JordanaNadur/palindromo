@@ -1,4 +1,3 @@
-      <?php
         string = raw_input()
         stringSemEspacos = string.replace(' ', '')
         stringTodaMinuscula = stringSemEspacos.lower()
@@ -7,4 +6,4 @@
                 stringTodaMinuscula print "SIM"
             else:
             print "NAO"
-        ?>
+       
